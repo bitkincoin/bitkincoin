@@ -3,7 +3,7 @@ Bitkincoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/bitkincoin/bitkincoin.svg?branch=master)](https://travis-ci.org/bitkincoin/bitkincoin)
 
-https://bitkincoincore.org
+https://bitkincoin.com
 
 What is Bitkincoin?
 ----------------
@@ -15,8 +15,8 @@ out collectively by the network. Bitkincoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Bitkincoin Core software, see https://bitkincoincore.org/en/download/, or read the
-[original whitepaper](https://bitkincoincore.org/bitkincoin.pdf).
+the Bitkincoin Core software, see https://bitkincoin.com/en/download/, or read the
+[original whitepaper](https://bitkincoin.com/bitkincoin.pdf).
 
 License
 -------
